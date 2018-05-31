@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/675d6062ee24b0ea5ef88b919e820a803dd243c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_11ca4bdc3a65c4fb762876f31dc92bd92e083c2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/3f0afa7e3e6baa59a58a753242e253ab846110a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_5790fe90aee07d10002ad3248daf9100e2fa5dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/80d5e4667cdcc141e65f5250976dff2837c2487e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_7d959e8fe33b2ebc5ec04bba63d57c1e34bbe6f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/common-1.0.0_e4a44824c43c167eea4e0e8338dcf14ad85e7421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/c9487074f0df2415c581d34261424193ac1056d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_b33bc95bb7aac4f27ad033c936d0bb0559e4f87b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/f0bc227bc461d73d69cc74214eed85c78c61dd31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_3918f134017efeadd5b6ab28b12bc456cd8abf24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/8aafd371b41a77d420a8e0f49a55645055dcf14f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_4cfbdd2a1641b50a5a038e0b67ecb8bdfbee21ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/84ea6b39c0c231b96bc8d73fd7cd98b855e007f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_3348edd9454630eeb139abf57f5ef05c4a52668c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/688848ef8183001b1b56ed16413fd444eb8714ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_ac2072d81143f44557c9cabc27ffb42e0b772469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/common-1.0.0_a5121c8905497eb36e913108bee0ccab895f761c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_a29efc1e03bcfb43a040e3a479c45a252a4b923d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/1cbd9420752be40023279a0ef6579e63f0bb7e14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_d6c4718eb892efd602680865aada64a5a09638a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/1e9d78a64439c75dc7ab6bd90b98c60d3919433e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_508548fe1299add26a8ee8616dd5e1090c77ee1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/2a9560a407fe81ca9010d98896fd0f3a09f08b49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_4e4c729bc329db136248e23793534cac1abddfd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/0d8aca98efe39cf127a5d1b72aa8de97889504eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_36cd9e50ccc873cdb5b24ea147318622712fa589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/decbe28d2e7742b4d382ebe7721b114385b42ccd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_cb6e39c26740d8f8a3cc4e6f02feac8a8e5c50d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/051e18c49c8e9c365181736e4154015f29fb2f98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_d3369e4c6dfb68828eef57955c9d79cfc4e0eae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/95d2d1c14063385dab2787695402dfff3b9be763/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95955cf3055a3384ba1bfc30c6da82b92df74e0a">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_93ee257ae2bf56dd47c2acb4d9d02dd2202588aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/65ead4b18d9b7215dcae756c2784b0f45cb94e02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_12c33fed60e361e850f1fdf835aa77274058e59f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/0dec7cd16ae54144c9ed6db4ce2b821626cc4351/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_ca764ace739d9ce2c574232f4027a3d336e48cff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/6e1c4a0c9df831396eb35847ccd311e8b740c09a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_43ce10570a93e7e6e1173b1d5dc13bb95646d5c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/37b30e70c805635632daf9f244005fd4abe12083/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_cad8c430dd35d2bd951009d653f8d4f341eb5a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joao/.android/build-cache/ada8e609b0bcebf216ba49b0e044b8b9b2d485cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/joao/projetos/Outros/challege-unipd/Challenge-unipd/app/build/intermediates/pre-dexed/debug/classes_b857cc7f3fd3457ff406d215bf15fbcd97506ed3.jar" />
+    </item>
+
+</items>

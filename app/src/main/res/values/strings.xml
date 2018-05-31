@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Challenge-guep</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Inputs -->
+    <string name="input_gas_address">Endereço</string>
+    <string name="input_gas_name">Nome</string>
+
+    <!-- Text Views -->
+    <string name="tv_added_gas_station">Postos salvos</string>
+
+    <!-- Buttons -->
+    <string name="bt_show_map">Ver mapa</string>
+
+    <!-- Localizacao -->
+    <string name="location_message">Ative sua localização para continuar.</string>
+    <string name="location_title">Localização</string>
+    <string name="location_config">Configurações</string>
+    <string name="location_cancel">Cancelar</string>
+
+</resources>
