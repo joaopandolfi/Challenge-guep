@@ -19,4 +19,10 @@
     <string name="location_config">Configurações</string>
     <string name="location_cancel">Cancelar</string>
 
+    <string name="save_message">Deseja salvar este endereço?</string>
+    <string name="save_title">Confirmação</string>
+    <string name="save_yes">Sim</string>
+    <string name="save_cancel">Cancelar</string>
+
+
 </resources>

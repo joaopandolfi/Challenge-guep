@@ -1,9 +1,11 @@
 package dersus.challenge_guep;
 
 import android.app.Activity;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.v7.app.AlertDialog;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -77,16 +79,45 @@ public class NewGasStationActivity extends Activity {
         save.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                gasStation.setName(name.getText().toString());
 
-                //Salvando
-                GasStationDao.getInstance(ctx).save(gasStation);
+            AlertDialog.Builder alertDialog = new AlertDialog.Builder(ctx);
 
-                //Saindo da activity
-                Intent returnIntent = new Intent();
-                returnIntent.putExtra(BundleConstants.RESULT_GAS_STATION,gasStation.getName());
-                setResult(Activity.RESULT_OK,returnIntent);
-                finish();
+            // Setting Dialog Title
+            alertDialog.setTitle(R.string.save_title);
+
+            // Setting Dialog Message
+            alertDialog.setMessage(R.string.save_message);
+
+                // On pressing Yes Button
+                alertDialog.setPositiveButton(R.string.save_yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                    gasStation.setName(name.getText().toString());
+
+                    //Salvando
+                    GasStationDao.getInstance(ctx).save(gasStation);
+
+                    //Saindo da activity
+                    Intent returnIntent = new Intent();
+                    returnIntent.putExtra(BundleConstants.RESULT_GAS_STATION,gasStation.getName());
+                    setResult(Activity.RESULT_OK,returnIntent);
+                    finish();
+                    }
+                });
+
+                // on pressing cancel button
+                alertDialog.setNegativeButton(R.string.location_cancel, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        dialog.cancel();
+                    }
+                });
+
+                alertDialog.create();
+                // Showing Alert Message
+                try{
+                    alertDialog.show();
+                } catch (Exception e){
+                    Log.v("Error", "Erro no dialog");
+                }
             }
         });
     }
